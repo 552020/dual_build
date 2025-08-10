@@ -8,6 +8,13 @@
 - **Juno**: Decentralized hosting on the Internet Computer (static export)
 - **Single codebase**: Same repository, same branch, dual deployment
 
+## 🌐 Live Deployments
+
+- **Vercel**: [https://dual-build.vercel.app/](https://dual-build.vercel.app/)
+- **Juno (ICP)**: [https://fbdjl-uiaaa-aaaal-askaq-cai.icp0.io/](https://fbdjl-uiaaa-aaaal-askaq-cai.icp0.io/)
+
+Both sites are automatically updated when you push to the main branch!
+
 ## 🔧 How It Works
 
 ### Conditional Build Configuration
