@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",
-    "dev:juno": "cross-env BUILD_TARGET=juno next dev --turbopack",
+    "dev:juno": "BUILD_TARGET=juno next dev --turbopack",
     "build": "next build",
     "build:juno": "cross-env BUILD_TARGET=juno next build && next export",
     "start": "next start",
