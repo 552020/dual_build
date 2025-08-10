@@ -6,7 +6,7 @@
     "dev": "next dev --turbopack",
     "dev:juno": "BUILD_TARGET=juno next dev --turbopack",
     "build": "next build",
-    "build:juno": "BUILD_TARGET=juno next build && next export",
+    "build:juno": "BUILD_TARGET=juno next build",
     "start": "next start",
     "lint": "next lint",
     "format": "prettier --write .",
